@@ -32,6 +32,3 @@ def guessNumber(n):
         else:
             print("\nGame over. Your secret number was: " + str(guess))   
             break
-
-n = 10
-guessNumber(n)

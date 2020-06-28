@@ -8,5 +8,3 @@ def gcdRecur(a, b):
         return a
     
     return gcdRecur(b, a%b)
-
-print(gcdRecur(270, 345))

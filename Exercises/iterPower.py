@@ -14,5 +14,3 @@ def iterPower(base, exp):
         result *= base
     
     return result
-
-print(iterPower(2, 10))

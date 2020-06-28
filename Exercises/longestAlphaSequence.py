@@ -17,6 +17,3 @@ for char in s:
             
 if (len(aux) > len(result)):
     result = aux
-    
-print(result)
-

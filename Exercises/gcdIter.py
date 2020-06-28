@@ -12,5 +12,3 @@ def gcdIter(a, b):
             gcd = i
             
     return gcd
-
-print(gcdIter(9, 12))
